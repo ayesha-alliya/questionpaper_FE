@@ -1,0 +1,21 @@
+
+  .img1{
+    background-image: url('Images/login.jpg');
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+  
+  }
+  .img{
+    background-image: url('Images/question.jpg');
+    min-height: 90vh;
+    width: 100%;
+    background-size:contain !important;
+    background-repeat: no-repeat !important;
+  }
+.reg{
+  background-image: url('Images/reg1.png');
+  width: 100%;
+  min-height: 100%;
+  background-repeat: fixed cover no-repeat;
+}
